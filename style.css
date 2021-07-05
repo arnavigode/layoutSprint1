@@ -1,0 +1,132 @@
+@media screen {
+  .container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    font-family: Bodoni MT Black;
+    font-size: large;
+  }
+  .upper {
+    width: 80%;
+    height: 150px;
+    margin: auto;
+    background-color: rgb(248, 246, 246);
+  }
+  .box {
+    width: 25%;
+    height: 85px;
+    background-color: indianred;
+    float: left;
+    margin-left: 3%;
+    margin-top: 3%;
+    border-radius: 6px;
+  }
+  .img {
+    width: 60px;
+    height: 60px;
+    float: left;
+    border-radius: 70px;
+    margin: 4%;
+    margin-left: 7%;
+    margin-right: 6%;
+  }
+  .text {
+    margin: auto;
+    margin-top: 10%;
+    margin-left: 5%;
+    text-align: left;
+    color: white;
+    font-size: large;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .text2 {
+    margin: auto;
+    margin-left: 5%;
+    text-align: left;
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1%;
+  }
+  #y {
+    margin-left: 9%;
+    background-color: rgb(255, 188, 62);
+  }
+  #b {
+    background-color: rgb(75, 75, 243);
+  }
+  #b1 {
+    background-color: rgb(32, 187, 248);
+  }
+  .mid {
+    margin-left: 30%;
+  }
+  .mid1 {
+    width: 15%;
+    height: 30px;
+    background-color: rgb(243, 240, 240);
+    margin: auto;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  .mid1 > span {
+    font-size: 12px;
+    margin-top: 10%;
+  }
+  #blue {
+    background-color: rgb(32, 187, 248);
+    border-radius: 4px;
+  }
+  .lower {
+    width: 80%;
+    margin: auto;
+  }
+  .block {
+    width: 30%;
+    height: 400px;
+    margin: auto;
+    background-color: rgb(231, 228, 228);
+    float: left;
+    margin-left: 3%;
+    border-radius: 4px;
+  }
+  .img2 {
+    width: 100%;
+    height: 50%;
+    border-radius: 4px;
+  }
+  .block > h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 4%;
+    font-weight: 600;
+  }
+  .block > h3 {
+    font-family: Bodoni MT Black;
+    font-size: medium;
+    text-align: left;
+    margin-left: 5%;
+    font-stretch: 50%;
+  }
+  .block > p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: left;
+    margin-left: 5%;
+  }
+  .button {
+    width: 45%;
+    height: 8%;
+    float: left;
+    border-radius: 4px;
+    border: 2px solid rgb(32, 187, 248);
+    margin-left: 5%;
+    color: rgb(32, 187, 248);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+}
